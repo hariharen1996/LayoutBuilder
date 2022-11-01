@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.header-container {
+  background-color: #e2e8f0;
+  padding: 20px;
+  margin-top: 20px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.header {
+  color: #64748b;
+  font-weight: 500;
+  font-size: 20px;
+  text-align: center;
+}

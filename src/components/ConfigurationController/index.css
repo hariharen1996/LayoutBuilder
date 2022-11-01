@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #475569;
+  padding: 15px;
+}
+
+.config-container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.config-heading {
+  color: #f1f5f9;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: 'Roboto';
+}
+
+.label {
+  color: #f1f5f9;
+  font-size: 14px;
+  font-family: 'Roboto';
+}
